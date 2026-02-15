@@ -1,0 +1,30 @@
+2026/02/15-08:46:20.354 68d8 Reusing MANIFEST D:/Game Development/UE5/Projects/TouchMobile/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/15-08:46:20.368 68d8 Recovering log #7
+2026/02/15-08:46:20.369 68d8 Reusing old log D:/Game Development/UE5/Projects/TouchMobile/Saved/webcache_4430\Local Storage\leveldb/000007.log 
+2026/02/15-08:48:21.084 3da8 Level-0 table #11: started
+2026/02/15-08:48:21.111 3da8 Level-0 table #11: 47151 bytes OK
+2026/02/15-08:48:21.113 3da8 Delete type=0 #7
+2026/02/15-08:56:11.180 7460 Level-0 table #13: started
+2026/02/15-08:56:11.185 7460 Level-0 table #13: 18940 bytes OK
+2026/02/15-08:56:11.187 7460 Delete type=0 #10
+2026/02/15-08:59:21.095 86d0 Level-0 table #15: started
+2026/02/15-08:59:21.127 86d0 Level-0 table #15: 19089 bytes OK
+2026/02/15-08:59:21.130 86d0 Delete type=0 #12
+2026/02/15-09:03:21.085 844 Level-0 table #17: started
+2026/02/15-09:03:21.091 844 Level-0 table #17: 20595 bytes OK
+2026/02/15-09:03:21.094 844 Delete type=0 #14
+2026/02/15-09:03:21.096 844 Compacting 4@0 + 1@1 files
+2026/02/15-09:03:21.102 844 Generated table #18@0: 14 keys, 17247 bytes
+2026/02/15-09:03:21.102 844 Compacted 4@0 + 1@1 files => 17247 bytes
+2026/02/15-09:03:21.103 844 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/15-09:03:21.105 844 Delete type=2 #8
+2026/02/15-09:03:21.105 844 Delete type=2 #11
+2026/02/15-09:03:21.105 844 Delete type=2 #13
+2026/02/15-09:03:21.105 844 Delete type=2 #15
+2026/02/15-09:03:21.105 844 Delete type=2 #17
+2026/02/15-09:06:29.817 19b0 Level-0 table #20: started
+2026/02/15-09:06:29.821 19b0 Level-0 table #20: 20683 bytes OK
+2026/02/15-09:06:29.822 19b0 Delete type=0 #16
+2026/02/15-10:13:21.572 3674 Level-0 table #22: started
+2026/02/15-10:13:21.576 3674 Level-0 table #22: 20147 bytes OK
+2026/02/15-10:13:21.578 3674 Delete type=0 #19

@@ -1,0 +1,45 @@
+2026/02/15-10:42:21.164 c40 Reusing MANIFEST D:/Game Development/UE5/Projects/TouchMobile/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/15-10:42:21.166 c40 Recovering log #21
+2026/02/15-10:42:21.167 c40 Reusing old log D:/Game Development/UE5/Projects/TouchMobile/Saved/webcache_4430\Local Storage\leveldb/000021.log 
+2026/02/15-10:43:49.926 340 Level-0 table #25: started
+2026/02/15-10:43:49.929 340 Level-0 table #25: 21094 bytes OK
+2026/02/15-10:43:49.930 340 Delete type=0 #21
+2026/02/15-11:14:40.769 42dc Level-0 table #27: started
+2026/02/15-11:14:40.772 42dc Level-0 table #27: 21192 bytes OK
+2026/02/15-11:14:40.773 42dc Delete type=0 #24
+2026/02/15-11:14:40.774 42dc Compacting 4@0 + 1@1 files
+2026/02/15-11:14:40.777 42dc Generated table #28@0: 18 keys, 17127 bytes
+2026/02/15-11:14:40.777 42dc Compacted 4@0 + 1@1 files => 17127 bytes
+2026/02/15-11:14:40.777 42dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/15-11:14:40.778 42dc Delete type=2 #18
+2026/02/15-11:14:40.778 42dc Delete type=2 #20
+2026/02/15-11:14:40.778 42dc Delete type=2 #22
+2026/02/15-11:14:40.778 42dc Delete type=2 #25
+2026/02/15-11:14:40.778 42dc Delete type=2 #27
+2026/02/15-11:15:08.760 340 Level-0 table #30: started
+2026/02/15-11:15:08.762 340 Level-0 table #30: 20211 bytes OK
+2026/02/15-11:15:08.763 340 Delete type=0 #26
+2026/02/15-11:15:34.019 42dc Level-0 table #32: started
+2026/02/15-11:15:34.023 42dc Level-0 table #32: 20142 bytes OK
+2026/02/15-11:15:34.024 42dc Delete type=0 #29
+2026/02/15-11:15:59.396 340 Level-0 table #34: started
+2026/02/15-11:15:59.398 340 Level-0 table #34: 20258 bytes OK
+2026/02/15-11:15:59.399 340 Delete type=0 #31
+2026/02/15-11:16:19.664 42dc Level-0 table #36: started
+2026/02/15-11:16:19.667 42dc Level-0 table #36: 18209 bytes OK
+2026/02/15-11:16:19.668 42dc Delete type=0 #33
+2026/02/15-11:16:19.668 42dc Compacting 4@0 + 1@1 files
+2026/02/15-11:16:19.671 42dc Generated table #37@0: 19 keys, 17253 bytes
+2026/02/15-11:16:19.671 42dc Compacted 4@0 + 1@1 files => 17253 bytes
+2026/02/15-11:16:19.671 42dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/15-11:16:19.672 42dc Delete type=2 #28
+2026/02/15-11:16:19.672 42dc Delete type=2 #30
+2026/02/15-11:16:19.672 42dc Delete type=2 #32
+2026/02/15-11:16:19.672 42dc Delete type=2 #34
+2026/02/15-11:16:19.672 42dc Delete type=2 #36
+2026/02/15-11:16:43.897 340 Level-0 table #39: started
+2026/02/15-11:16:43.900 340 Level-0 table #39: 18603 bytes OK
+2026/02/15-11:16:43.901 340 Delete type=0 #35
+2026/02/15-11:17:22.219 42dc Level-0 table #41: started
+2026/02/15-11:17:22.221 42dc Level-0 table #41: 19233 bytes OK
+2026/02/15-11:17:22.222 42dc Delete type=0 #38

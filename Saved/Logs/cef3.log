@@ -1,0 +1,4 @@
+[0215/101805.073:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0215/111643.918:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 145
+[0215/123110.597:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0215/123110.604:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
